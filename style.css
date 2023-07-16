@@ -155,6 +155,9 @@ footer {
       .nav-item {
         margin-left: 0;
       }
+      .main-title{
+        margin-top: 100px;
+      }
       .main-container{
         flex-direction: column;
         justify-content: center;
